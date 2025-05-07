@@ -8,19 +8,6 @@
 ## Project Description
 Cash Compass is a comprehensive personal finance dashboard specifically designed to empower users to manage their finances with confidence and clarity. In an era where financial literacy is crucial yet often lacking, Cash Compass serves as an essential tool that simplifies the complexities of personal finance.
 
-## File Structure
-\`\`\`
-/server.js
-/app.js
-/styles.css
-/public
-    ├── index.html
-    ├── register.html
-    ├── login.html
-    ├── dashboard.html
-    ├── budget.html
-    └── reports.html
-\`\`\`
 ## Getting Started
 
 ### Prerequisites
