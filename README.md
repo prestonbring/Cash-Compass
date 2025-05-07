@@ -6,7 +6,7 @@
 - Nathaniel Gronneberg
 
 ## Project Description
-Cash Compass is a comprehensive personal finance dashboard specifically designed to empower users to manage their finances with confidence and clarity. In an era where financial literacy is crucial yet often lacking, Cash Compass serves as an essential tool that simplifies the complexities of personal finance.
+Cash Compass is a comprehensive personal finance dashboard specifically designed to empower users to manage their finances with confidence and clarity. In an era where financial literacy is crucial yet often lacking, Cash Compass serves as a tool that simplifies the complexities of personal finance.
 
 ## Getting Started
 
