@@ -30,7 +30,7 @@ Cash Compass is a comprehensive personal finance dashboard specifically designed
 
 4. **Open the Application**
    Open your web browser and navigate to
-   http://localhost:3000/public/index.html
+   http://localhost:3000/index.html
 
 ### Usage
 - Users can register for a new account or log in to access their personal finance dashboard
