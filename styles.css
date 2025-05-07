@@ -1,0 +1,71 @@
+/* Cash Compass App
+CSCI-313 Group Project 
+Authors: Preston, Zaid, Nathaniel */
+
+body {
+    background-color: #373645;
+    color: white;
+    font-family: 'Georgia', serif;
+}
+
+.greeting {
+    margin: 20px 0;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%; 
+    position: relative;
+}
+
+#greeting-text {
+    font-size: 3em;
+    display: inline-block;
+    opacity: 0;
+    animation: fadeIn 6s forwards; /* fades in the text that stays */
+}
+
+/* keyframes for fading in */
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+/* keyframes for moving text */
+@keyframes moveText {
+    0% { transform: translateX(100%); opacity: 1; }
+    80% { transform: translateX(-100%); opacity: 1; }
+    100% { transform: translateX(100%); opacity: 0; }
+}
+
+/* marquee styles */
+.tip-marquee {
+    font-size: 1.5em;
+    color: #8f45d3;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.list-group {
+    background-color: #402044;
+}
+
+.list-group-item {
+    background-color: transparent;
+}
+
+.card {
+    background-color: #402044;
+    border-radius: 8px;
+}
+
+.table {
+    background-color: #402044;
+    color: white;
+    border-radius: 8px;
+}
+
+footer {
+    font-size: 0.9em;
+}
