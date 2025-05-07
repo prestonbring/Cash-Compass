@@ -15,6 +15,7 @@ Cash Compass is a comprehensive personal finance dashboard specifically designed
 /styles.css
 /public
     ├── index.html
+    
     ├── register.html
     ├── login.html
     ├── dashboard.html
