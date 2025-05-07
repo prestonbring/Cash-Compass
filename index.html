@@ -1,0 +1,25 @@
+<!-- Cash Compass App
+CSCI-313 Group Project
+Authors: Preston, Zaid, Nathaniel -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <script>
+        window.onload = function() {
+            const token = localStorage.getItem('token');
+            if (token) {
+                window.location.href = 'public/dashboard.html';
+            } else {
+                window.location.href = 'public/login.html';
+            }
+        }
+    </script>
+</head>
+<body>
+    <p>Redirecting...</p>
+</body>
+</html>
