@@ -20,7 +20,6 @@ Cash Compass is a comprehensive personal finance dashboard specifically designed
     ├── dashboard.html
     ├── budget.html
     └── reports.html
-\`\`\`
 
 ## Getting Started
 
